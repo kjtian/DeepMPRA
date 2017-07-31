@@ -1,3 +1,6 @@
+# This is currently defunct, but I am leavning here
+# as we probably want to change to something like this...
+
 import numpy as np
 from math import log
 from sklearn.model_selection import train_test_split
